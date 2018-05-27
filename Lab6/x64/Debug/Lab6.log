@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+c:\users\geralt\desktop\lab6\lab6\lab6.cpp(44): warning C4715: Queue::operator=: значение возвращается не при всех путях выполнения
+c:\users\geralt\desktop\lab6\lab6\lab6.cpp(56): warning C4715: Queue::operator=: значение возвращается не при всех путях выполнения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Geralt\Desktop\Lab6\x64\Debug\Lab6.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
